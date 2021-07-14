@@ -7392,9 +7392,9 @@ jano200.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-jano.login("");
-jano2.login("");
-jano3.login("");
+jano.login("ODY0ODMwNjUzMDcyOTMyOTA1.YO7LDw.rMQU47C4XSnh7JRXprqEgb3vJLw");
+jano2.login("ODY0ODI3NjI1MjAwNTQ5OTA4.YO7JSA.zbw62LI150ees_uj9NdriYoyy6s");
+jano3.login("ODY0ODI1Njc2NzUzMjcyODUy.YO7HDg.t8VHxqfWZpwM0cF-rTDxcIEwD18");
 jano4.login("");
 jano5.login("");
 jano6.login("");
